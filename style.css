@@ -77,3 +77,54 @@ footer{
   padding: 15px;
   margin-top: 40px;
   }
+/* COURSES PAGE GREEN THEME */
+
+.green-header {
+  background: #00796b;
+  color: white;
+  padding: 15px;
+}
+
+.green-header nav a {
+  color: white;
+  margin-right: 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.green-header nav a:hover {
+  text-decoration: underline;
+}
+
+.course-section {
+  padding: 40px 20px;
+  background: #f2fdfb;
+}
+
+.course-section h2 {
+  text-align: center;
+  color: #004d40;
+  margin-bottom: 30px;
+}
+
+.course-card {
+  background: white;
+  padding: 20px;
+  margin: 15px auto;
+  max-width: 500px;
+  border-left: 6px solid #00796b;
+  border-radius: 6px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.course-card h3 {
+  margin-top: 0;
+  color: #00796b;
+}
+
+.green-footer {
+  background: #004d40;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  }
